@@ -1,4 +1,4 @@
-# HasyForum — Forum Diskusi Komunitas
+# HasbyForum — Forum Diskusi Komunitas
 
 **UTS Web Lanjut | Muhammad Hasby Abdillah | Sistem Informasi — UMP Pontianak**
 
