@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Masuk — HasyForum</title>
+    <title>Masuk — HasbyForum</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-50 min-h-screen flex items-center justify-center p-4">
@@ -15,7 +15,7 @@
         <div class="w-14 h-14 bg-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-4">
             <span class="text-white font-black text-2xl">H</span>
         </div>
-        <h1 class="text-2xl font-extrabold text-slate-800">Masuk ke HasyForum</h1>
+        <h1 class="text-2xl font-extrabold text-slate-800">Masuk ke HasbyForum</h1>
         <p class="text-slate-500 text-sm mt-1">Bergabung dan mulai berdiskusi</p>
     </div>
 
